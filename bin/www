@@ -6,7 +6,7 @@
  */
 
 const app = require('../app');
-const debug = require('debug')('aula-27-3:server');
+const debug = require('debug')('TBGusta:server');
 const http = require('http');
 
 /**
